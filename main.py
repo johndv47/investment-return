@@ -1,5 +1,5 @@
 '''
-script: investment_return.py
+script: pinto_investment_return.py
 action: a. loops through years 10, 20, and 30 to perform interest calculation.
         b. prints calculation.
 note: p(1+r)^n
